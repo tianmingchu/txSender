@@ -1,0 +1,15 @@
+.header-title {
+    text-decoration: underline wavy cyan 2px;
+}
+
+.body-row {
+    height: 3.89%;
+}
+
+.body-row-checkbox {
+    height: 3.75%
+}
+
+.body-row-tx {
+    height: 15px;
+}
